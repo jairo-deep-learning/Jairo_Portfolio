@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine &amp; Deep Learning Portfolio on Jairo V.</title>
+    <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/</link>
+    <description>Recent content in Machine &amp; Deep Learning Portfolio on Jairo V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2019 11:00:59 -0400</lastBuildDate><atom:link href="https://jairo-deep-learning.github.io/Jairo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank dataset: Predicting clients for financial services</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 23 Oct 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-2/</guid>
+      <description>Many companies directs marketing campaings to all their leads. However, the effect of this campaings could be different from one potencial customer to other. So, what if marketing teams could have the possibility to predict which customer will buy from the mass of clients???
+Well, in this analysis we try to create a model that allow us to predict who is going to buy a bank service and who is not.</description>
+    </item>
+    
+    <item>
+      <title>Wine dataset: Unsupervised learning for clustering wine references</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 13 Jul 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-3/</guid>
+      <description>It is well known that wine has motivated people to socialize, create, party, and adventure. It’s no wonder, billions of people around the globe identify as wine lovers!
+In this dataset, we find 1600 wine references with the following features and the goal is to create clusters that group references by similarity. This way, we could classify a new wine reference, that has not been included in this analysis, in one of the clusters defined here.</description>
+    </item>
+    
+    <item>
+      <title>Advertising dataset: How to predict sales based on advertising investements</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 17 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-1/</guid>
+      <description>Marketing teams usually promote their products in different kind of media. For example: TV, radio, newspaper, social media, etc. However, the impact in sales could be different for each kind of media. Perharps, investing in TV or radio would generate a bigger sales growth than investing in newspaper!! In this repository, you will find a model to predict sales based on different kind of media and also, it will help to identify which kind of advertising should be performed by the company.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
