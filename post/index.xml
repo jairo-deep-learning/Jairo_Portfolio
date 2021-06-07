@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://jairo-deep-learning.github.io/Jairo_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cancer dataset: Breast cancer detection using knn</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 16 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-4/</guid>
+      <description>K-NN is a machine learning technic used to classify data analysing similarity in features of data. In this project, K parameter was tested in several values: 3, 5, 7, 9 and 12. At the end, best performance was reached when K = 5, with a precision rate &amp;gt; 98%.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Bank dataset: Predicting clients for financial services</title>
       <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-2/</link>
       <pubDate>Wed, 23 Oct 2019 11:00:59 -0400</pubDate>
