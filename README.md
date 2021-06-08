@@ -6,7 +6,6 @@ Species detection using Decision Trees and Random Forest technics. Iris is a ver
 
 ![](/images/iris_decision_tree.png)
 
-
 # [Cancer dataset: Breast cancer detection using knn](https://github.com/jairo-deep-learning/breast_cancer/blob/main/KNN.ipynb)
 K-NN is a machine learning technic used to classify data analysing similarity in features of data. In this project, K parameter was tested in several values: 3, 5, 7, 9 and 12. At the end, best performance was reached when K = 5, with a precision rate > 98%.
 
