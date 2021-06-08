@@ -1,6 +1,12 @@
 # Jairo_Portfolio
 Welcome to my portfolio!! I have special interest in machine learning and deep learning technics, and Internet of Things
 
+# [Iris dataset: Species detection using Decision Trees and Randon Forest](https://github.com/jairo-deep-learning/iris_decision_tree/blob/main/Decision_Trees.ipynb)
+Species detection using Decision Trees and Random Forest technics. Iris is a very popular dataset used for accelerating learning curve in data scientists. Other machine learning technics can be run for Iris dataset, like Logistic Regression and KNN.
+
+![](/images/iris_decision_tree.png)
+
+
 # [Cancer dataset: Breast cancer detection using knn](https://github.com/jairo-deep-learning/breast_cancer/blob/main/KNN.ipynb)
 K-NN is a machine learning technic used to classify data analysing similarity in features of data. In this project, K parameter was tested in several values: 3, 5, 7, 9 and 12. At the end, best performance was reached when K = 5, with a precision rate > 98%.
 
