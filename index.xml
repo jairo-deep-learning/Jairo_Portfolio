@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>Iris dataset: Species detection using Decision Trees and Randon Forest</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 25 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-5/</guid>
+      <description>Species detection using Decision Trees and Random Forest technics. Iris is a very popular dataset used for accelerating learning curve in data scientists. Other machine learning technics can be run for Iris dataset, like Logistic Regression and KNN.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Bank dataset: Predicting clients for financial services</title>
       <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-2/</link>
       <pubDate>Wed, 23 Oct 2019 11:00:59 -0400</pubDate>
