@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>Boston dataset: Price estimation using Regression Decision Trees and Regression Random Forest</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 25 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-6/</guid>
+      <description>This project used Boston dataset to estimate price of houses. For this case, supervised learning technics as Regression Decision Tree and Regression Random Forest were used to evaluate data.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Iris dataset: Species detection using Decision Trees and Randon Forest</title>
       <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-5/</link>
       <pubDate>Mon, 25 Nov 2019 10:58:08 -0400</pubDate>
