@@ -1,6 +1,11 @@
 # Jairo_Portfolio
 Welcome to my portfolio!! I have special interest in machine learning and deep learning technics, and Internet of Things
 
+# [Boston dataset: Price estimation using Regression Decision Trees and Regression Random Forest](https://github.com/jairo-deep-learning/boston_regression_decision_tree/blob/main/Regression_decision_tree.ipynb)
+This project used Boston dataset to estimate price of houses. For this case, supervised learning technics as Regression Decision Tree and Regression Random Forest were used to evaluate data.
+
+![](/images/reg_decision_tree.png)
+
 # [Iris dataset: Species detection using Decision Trees and Randon Forest](https://github.com/jairo-deep-learning/iris_decision_tree/blob/main/Decision_Trees.ipynb)
 Species detection using Decision Trees and Random Forest technics. Iris is a very popular dataset used for accelerating learning curve in data scientists. Other machine learning technics can be run for Iris dataset, like Logistic Regression and KNN.
 
