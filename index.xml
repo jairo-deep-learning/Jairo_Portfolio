@@ -6,7 +6,19 @@
     <description>Recent content in Machine &amp; Deep Learning Portfolio on Jairo V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://jairo-deep-learning.github.io/Jairo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://jairo-deep-learning.github.io/Jairo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fetch_lfw_people dataset: Facial Recognition with Support Vector Machines</title>
+      <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-7/</link>
+      <pubDate>Mon, 25 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-7/</guid>
+      <description>This dataset is a collection of JPEG pictures of famous people collected over the internet, all details are available on the official website:
+http://vis-www.cs.umass.edu/lfw/
+The purpose in this project is to recognize the face of person in the picture and label it with its full name, based on a training process composed by thousand of labeled pictures.
+For this project, all picture are black &amp;amp; white (sklearn.datasets.fetch_lfw_people &amp;ndash; parameter color = False)</description>
+    </item>
+    
     <item>
       <title>Cancer dataset: Breast cancer detection using knn</title>
       <link>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-4/</link>

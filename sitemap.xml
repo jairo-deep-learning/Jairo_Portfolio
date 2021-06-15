@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-4/</loc>
-    <lastmod>2020-03-16T10:58:08-04:00</lastmod>
+    <loc>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-7/</loc>
+    <lastmod>2020-05-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jairo-deep-learning.github.io/Jairo_Portfolio/</loc>
+    <lastmod>2020-05-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jairo-deep-learning.github.io/Jairo_Portfolio/post/project-4/</loc>
     <lastmod>2020-03-16T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
