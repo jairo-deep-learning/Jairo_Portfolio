@@ -12,6 +12,8 @@ For this project, all picture are black & white (sklearn.datasets.fetch_lfw_peop
 
 Finally, for this project each class in dataset has at least 60 values.
 
+![](/images/svc_predictions.png)
+
 # [Boston dataset: Price estimation using Regression Decision Trees and Regression Random Forest](https://github.com/jairo-deep-learning/boston_regression_decision_tree/blob/main/Regression_decision_tree.ipynb)
 This project used Boston dataset to estimate price of houses. For this case, supervised learning technics as Regression Decision Tree and Regression Random Forest were used to evaluate data.
 
