@@ -1,6 +1,17 @@
 # Jairo_Portfolio
 Welcome to my portfolio!! I have special interest in machine learning and deep learning technics, and Internet of Things
 
+# [Fetch_lfw_people dataset: Facial Recognition with Support Vector Machines](https://github.com/jairo-deep-learning/fetch_lfw_people_svm/blob/main/Face_recognition_svm.ipynb)
+This dataset is a collection of JPEG pictures of famous people collected over the internet, all details are available on the official website:
+
+http://vis-www.cs.umass.edu/lfw/
+
+The purpose in this project is to recognize the face of person in the picture and label it with its full name, based on a training process composed by thousand of labeled pictures.
+
+For this project, all picture are black & white (sklearn.datasets.fetch_lfw_people -- parameter color = False)
+
+Finally, for this project each class in dataset has at least 60 values.
+
 # [Boston dataset: Price estimation using Regression Decision Trees and Regression Random Forest](https://github.com/jairo-deep-learning/boston_regression_decision_tree/blob/main/Regression_decision_tree.ipynb)
 This project used Boston dataset to estimate price of houses. For this case, supervised learning technics as Regression Decision Tree and Regression Random Forest were used to evaluate data.
 
