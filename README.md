@@ -1,6 +1,13 @@
 # Jairo_Portfolio
 Welcome to my portfolio!! I have special interest in machine learning and deep learning technics, and Internet of Things
 
+# [ml-latest-small dataset: Clustering users based on movie scoring](https://github.com/jairo-deep-learning/Movie_recomm_system/blob/main/movie_recomm_system.ipynb)
+In this project, ml-latest-small dataset is used to cluster users. This is as useful tool for movie makers and companies as Netflix. Here, users rate movies using a 0-5 scores. The objective is to find clusters that group users based on the movies they like/dislike using KMeans technic.
+
+ml-latest-small dataset contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
+
+![](/images/clustering.png)
+
 # [Fetch_lfw_people dataset: Facial Recognition with Support Vector Machines](https://github.com/jairo-deep-learning/fetch_lfw_people_svm/blob/main/Face_recognition_svm.ipynb)
 This dataset is a collection of JPEG pictures of famous people collected over the internet, all details are available on the official website:
 
